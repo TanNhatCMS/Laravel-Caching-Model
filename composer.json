@@ -1,0 +1,22 @@
+{
+    "name": "tannhatcms/laravel-caching-model",
+    "description": "A simple cache library for laravel eloquent model",
+    "type": "library",
+    "require": {
+        "php": "^7.0|^8.0",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TanNhatCMS\\CachingModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TanNhatCMS",
+            "email": "mrkiet.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

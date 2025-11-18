@@ -1,6 +1,6 @@
 <?php
 
-namespace KietNT\CachingModel\Contracts;
+namespace TanNhatCMS\CachingModel\Contracts;
 
 use Closure;
 use Illuminate\Support\Collection;

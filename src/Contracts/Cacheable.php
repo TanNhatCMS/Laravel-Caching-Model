@@ -1,6 +1,6 @@
 <?php
 
-namespace KietNT\CachingModel\Contracts;
+namespace TanNhatCMS\CachingModel\Contracts;
 
 interface Cacheable
 {

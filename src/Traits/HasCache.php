@@ -4,6 +4,7 @@ namespace TanNhatCMS\CachingModel\Traits;
 
 use TanNhatCMS\CachingModel\Contracts\BuilderInterface;
 use TanNhatCMS\CachingModel\Contracts\Cacheable;
+use TanNhatCMS\CachingModel\CacheQueryBuilder;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Str;
 

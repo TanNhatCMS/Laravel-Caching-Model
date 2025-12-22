@@ -6,7 +6,7 @@
 1. Implement Cacheable interface then use HasCache trait:
 ```php
 use TanNhatCMS\CachingModel\Contracts\Cacheable;
-use TanNhatCMS\CachingModel\HasCache;
+use TanNhatCMS\CachingModel\Traits\HasCache;
 
 class Setting extends Model implements Cacheable
 {

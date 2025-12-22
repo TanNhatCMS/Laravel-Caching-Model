@@ -1,11 +1,11 @@
 <?php
 
-namespace KietNT\CachingModel;
+namespace TanNhatCMS\CachingModel;
 
 use Closure;
-use KietNT\CachingModel\Contracts\BuilderInterface;
-use KietNT\CachingModel\Contracts\Cacheable;
-use KietNT\CachingModel\Exceptions\UnsupportedModelException;
+use TanNhatCMS\CachingModel\Contracts\BuilderInterface;
+use TanNhatCMS\CachingModel\Contracts\Cacheable;
+use TanNhatCMS\CachingModel\Exceptions\UnsupportedModelException;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 

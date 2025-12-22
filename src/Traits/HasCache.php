@@ -1,6 +1,6 @@
 <?php
 
-namespace TanNhatCMS\CachingModel;
+namespace TanNhatCMS\CachingModel\Traits;
 
 use TanNhatCMS\CachingModel\Contracts\BuilderInterface;
 use TanNhatCMS\CachingModel\Contracts\Cacheable;

@@ -1,6 +1,6 @@
 <?php
 
-namespace KietNT\CachingModel\Exceptions;
+namespace TanNhatCMS\CachingModel\Exceptions;
 
 use Exception;
 

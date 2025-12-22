@@ -5,6 +5,7 @@ namespace TanNhatCMS\CachingModel;
 use Closure;
 use TanNhatCMS\CachingModel\Contracts\BuilderInterface;
 use TanNhatCMS\CachingModel\Contracts\Cacheable;
+use TanNhatCMS\CachingModel\CacheQueryBuilder;
 use TanNhatCMS\CachingModel\Exceptions\UnsupportedModelException;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
